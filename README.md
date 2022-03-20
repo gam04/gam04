@@ -5,7 +5,7 @@ Jr. Security Consultant 🛡️
 </em></p>
 
 [![Linkedin: Gamboa](https://img.shields.io/badge/-Gamboa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gamboa-antonio/)](https://www.linkedin.com/in/gamboa-antonio/)
-[![GitHub Gamboa](https://img.shields.io/github/followers/gam-codeit?label=follow&style=social)](https://github.com/gam04)
+[![GitHub Gamboa](https://img.shields.io/github/followers/gam04?label=follow&style=social)](https://github.com/gam04)
 [![Medium: Gamboa](https://img.shields.io/badge/-Gamboa-gray?style=flat-square&logo=Medium&logoColor=white&link=https://antgam95.medium.com/)](https://antgam95.medium.com/)
 
 
